@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="title_next">Titulo de la aplicacion</string>
+    <integer name="numeroEntero">65</integer>
+</resources>
